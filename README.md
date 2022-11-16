@@ -1,3 +1,3 @@
-# Coursera_Applied_Data_Science_Capstone
+# Coursera: Applied Data Science Capstone project
 
-It is a markdown file
+This is the github repository of my Capstone project for Data Science.
